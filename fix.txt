@@ -1,0 +1,26 @@
+interpreter miss match:
+
+1. Ctrl + Shift + P
+2. Python: Select Interpreter
+Step 3
+Press Enter.
+You'll see a list.
+Choose something like:
+Plain Text
+D:\AI\.venv\Scripts\python.exe
+or
+Plain Text
+Python 3.x (.venv)
+Step 4
+If you don't see .venv
+Click:
+Plain Text
+Enter interpreter path
+then:
+Plain Text
+Find...
+and select:
+Plain Text
+D:\AI\.venv\Scripts\python.exe
+
+done ___

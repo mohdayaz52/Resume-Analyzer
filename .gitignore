@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+
+resume_analyzer.db
+
+Analysis_Report.pdf
+
+temp_resume.pdf
+temp_jd.pdf
+
+.venv/
+
+.streamlit/
